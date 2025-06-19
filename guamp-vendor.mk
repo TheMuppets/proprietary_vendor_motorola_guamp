@@ -131,6 +131,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libthermalclient \
+    capsense_reset \
     cnss-daemon \
     com.mot.eeprom.mot_dw9767_s5kgm1st_eeprom \
     com.mot.eeprom.mot_gt24p64b_ov02b10_eeprom \
